@@ -14,6 +14,6 @@
   <body>
   <h1 style="color: red">hello,idea!!</h1>
   <h2 style="color: blue">这里是h2</h2>
-    <h3>啦啦啦，我改了<h3>
+    <h3>啦啦啦，我改了</h3>
   </body>
 </html>
