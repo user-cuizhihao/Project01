@@ -11,5 +11,6 @@ public class HelloWod04 {
         for (int i = 0; i < str.length(); i++) {
             System.out.println(str.charAt(i));
         }
+        System.out.println("再次制造冲突");
     }
 }
