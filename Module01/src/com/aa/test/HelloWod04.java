@@ -6,6 +6,6 @@ package com.aa.test;
  */
 public class HelloWod04 {
     public static void main(String[] args) {
-        System.out.println("没有冲突制造冲突");
+        System.out.println("再次制造冲突");
     }
 }
